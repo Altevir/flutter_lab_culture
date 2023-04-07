@@ -1,5 +1,5 @@
 # Flutter Lab Culture
-Esse exemplo foi feito a partir de uma publicação no Linkedin que achei bastante interessante, o layout foi feito no Figma pela Carolina Bessa (UX Designer), então resolvi desenvolver no Flutter pra ver como seria o desenvolvimento e quais os widgets eu iria utilizar, o resultado está aqui.
+Esse exemplo foi feito a partir de uma publicação no Linkedin que achei bastante interessante, o layout foi desenvolvido no Figma pela Carolina Bessa (UX Designer), então resolvi desenvolver no Flutter pra ver como seria esse desafio e quais os widgets eu iria utilizar, o resultado está aqui.
 
 Packages utilizados
 - lottie
