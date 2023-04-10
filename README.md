@@ -14,6 +14,10 @@ Packages utilizados
 ![screenshot-1680886635548](https://user-images.githubusercontent.com/11803107/230647928-3dc7bc9c-741b-4a19-9a82-7efb72b69572.png)
 ![lab_culture](https://user-images.githubusercontent.com/11803107/230650632-de688743-1a6e-487d-827d-26bb84cac861.gif)
 
+### iOS
+![ios_splash](https://user-images.githubusercontent.com/11803107/230737152-1f155832-cabd-49c7-b1b9-e3f5a728f468.png)
+![ios](https://user-images.githubusercontent.com/11803107/230736924-dde2acfd-852f-4847-88ee-52237f200485.png)
+
 Créditos do Design
 ## [Carolina Bessa](https://www.linkedin.com/in/carolinaabessa/) (Linkedin)
 Link do post original
